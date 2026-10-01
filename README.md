@@ -1,5 +1,5 @@
 # Python Course Work — Codegnan
-Hands-on Python fundamentals practiced over 21 days.
+Hands-on Python fundamentals practiced over 21 days using VS Code.
 
 ## Topics Covered
 - Day 01–05: Introduction, data types, type conversion, operators, I/O formatting
@@ -8,10 +8,10 @@ Hands-on Python fundamentals practiced over 21 days.
 - Day 17–21: OOP, file handling, list comprehensions & generators
 
 ## Structure
-Each `dayXX/` folder contains Jupyter notebooks (`.ipynb`) with examples and practice.
+Each `dayXX/` folder contains Python practice files (`.ipynb`) created and run in VS Code.
 
 ## Tech
-Python · Jupyter Notebook
+Python · VS Code
 
 ## How to Run
-Open any `.ipynb` in Jupyter/VS Code and run cells top-to-bottom.
+Open any `.ipynb` file in VS Code and run the cells top-to-bottom.
